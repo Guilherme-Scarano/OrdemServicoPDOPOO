@@ -20,7 +20,6 @@
 <p>Para utilizar o projeto, é necessário seguir os seguintes passos:</p>
 
 <ol>
-	<li>Clonar o repositório do projeto utilizando o comando <code>git clone https://github.com/WillianSi/Ordem-de-servi-o-com-PDO.git</code>;</li>
 	<li>Configurar o arquivo "config/database.php" com as informações do banco de dados utilizado;</li>
 	<li>Importar o arquivo "database.sql" para o banco de dados utilizado;</li>
 	<li>Iniciar o servidor web para acessar o projeto.</li>
